@@ -1,7 +1,7 @@
-import React from "react";
+import { Button } from "./components";
 
-function App() {
-  return <div className="bg-stone-800 text-white">asdfasf</div>;
-}
+const App = () => {
+  return <div>sdfsdfsdf</div>;
+};
 
 export default App;
