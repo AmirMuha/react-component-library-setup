@@ -1,7 +1,5 @@
-import React from "react";
-
 function App() {
-  return <div className="bg-stone-800 text-white">asdfasf</div>;
+  return <div>asdfasdf</div>;
 }
 
 export default App;
